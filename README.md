@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=-C%23&logoColor=White"/></a>&nbsp
+  <https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white>
 </p>
 
 <!--
