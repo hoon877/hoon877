@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Hoon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-<img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=C#&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/C%23-20232a.svg?style=for-the-badge&logo=C%23&logoColor=61DAFB" />
 
 <!--
 **hoon877/hoon877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
