@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Hoon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<h5 align="center">✨ Languages & Platforms ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=-C%23&logoColor=White"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp
 </p>
-<h5 align="center">✨ Tools ✨</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon877&layout=compact"><br><br>
