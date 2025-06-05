@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson"/></a>&nbsp
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
