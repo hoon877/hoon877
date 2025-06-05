@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson"/></a>&nbsp
 </p>
 
 <!--
