@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon877&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hoon877&show_icons=true">
+</p>
+
 <!--
 **hoon877/hoon877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
