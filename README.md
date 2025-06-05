@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Hoon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=C%23&logoColor=White"/></a>&nbsp
-  https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat
+  <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=-C%23&logoColor=White"/></a>&nbsp
 </p>
 
 <!--
